@@ -9,17 +9,19 @@ public class Main {
         
         e1.status();
         
-        System.out.println("");
-        
         ElencoInter e2 = new ElencoInter ("Cuesta", 32, 1.87f, 84f);
         
-        e2.status();
-        
-        System.out.println("");
+        e2.status(); 
+       
         
         ElencoInter e3 = new ElencoInter("Edenilson", 31, 1.75f, 76f);
         
         e3.status();
+        
+        ElencoInter e4 = new ElencoInter("Patrick", 29, 1.77f, 78f);
+        
+        e4.status();
+        
   
     }
     

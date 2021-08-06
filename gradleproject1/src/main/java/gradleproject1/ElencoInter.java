@@ -22,6 +22,8 @@ public class ElencoInter {
         System.out.println("Idade: "+ idade);
         System.out.println("Altura: "+ altura);
         System.out.println("Peso: "+ peso);
+        System.out.println("");
+        System.out.println("");
         
     }
     
