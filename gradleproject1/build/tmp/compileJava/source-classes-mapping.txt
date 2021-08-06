@@ -1,0 +1,4 @@
+gradleproject1/ElencoInter.java
+ gradleproject1.ElencoInter
+gradleproject1/Main.java
+ gradleproject1.Main
